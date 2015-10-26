@@ -4,7 +4,10 @@ int main (void){
 
 	printf("Hola mundo\n");
 	Nombre();
+	david();
 	mifuncion();
+	misael();
+	mifuncion2();
 }
 int Nombre (void){
 
@@ -14,5 +17,37 @@ int Nombre (void){
 
 	int mifuncion(){
 		printf("Ozzy .|.\n");
+
+
+
+
+
 	}
+
+
+
+
+
+
+
+
+int misael (){
+
+
+printf("hola mundo x2\n");
+
+
+}
+
+
+
+
+int david(){
+	printf("Hola Mundo 2\n");
+}
+
+
+	int mifuncion2(){
+	printf("Hola mundo 3\n");
+}
 
