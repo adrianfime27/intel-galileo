@@ -3,5 +3,9 @@
 int main (void){
 
 	printf("Hola mundo\n");
-
+	mifuncion();
 }
+	int mifuncion(){
+		printf("Ozzy .|.\n");
+	}
+
