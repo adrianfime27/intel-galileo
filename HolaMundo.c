@@ -3,8 +3,10 @@
 int main (void){
 
 	printf("Hola mundo\n");
+	david();
 	mifuncion();
 	misael();
+	mifuncion2();
 }
 
 
@@ -34,3 +36,16 @@ printf("hola mundo x2\n");
 
 
 }
+
+
+
+
+int david(){
+	printf("Hola Mundo 2\n");
+}
+
+
+	int mifuncion2(){
+	printf("Hola mundo 3\n");
+}
+
