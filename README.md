@@ -3,4 +3,4 @@ Domotic
 
 YO LO EDITE!
 
-Ozzy me gusta <3
+¡Bienvenidos todos a mi repositorio!
