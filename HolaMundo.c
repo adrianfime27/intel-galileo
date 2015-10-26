@@ -3,12 +3,29 @@
 int main (void){
 
 	printf("Hola mundo\n");
-
-misael();
-
-
-
+	mifuncion();
+	misael();
 }
+
+
+
+
+
+	int mifuncion(){
+		printf("Ozzy .|.\n");
+
+
+
+
+
+	}
+
+
+
+
+
+
+
 
 int misael (){
 
