@@ -4,7 +4,7 @@ int main (void){
 
 	printf("Hola mundo\n");
 	Nombre();
-
+	mifuncion();
 }
 int Nombre (void){
 
@@ -12,4 +12,7 @@ int Nombre (void){
 
 }
 
+	int mifuncion(){
+		printf("Ozzy .|.\n");
+	}
 
