@@ -1,11 +1,18 @@
 #include <stdio.h>
 
-int main (void){
+int main (void){	
 
 	printf("Hola mundo\n");
+	david();
 	mifuncion();
+	
+}
+
+int david(){
+	printf("Hola Mundo 2\n");
+}
+
 }
 	int mifuncion(){
-		printf("Ozzy .|.\n");
-	}
-
+	printf("Hola mundo 3\n");
+}
