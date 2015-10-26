@@ -9,45 +9,23 @@ int main (void){
 	misael();
 	mifuncion2();
 }
+
 int Nombre (void){
-
 	printf("Hola mundo perras\n");
-
 }
 
-	int mifuncion(){
-		printf("Ozzy .|.\n");
-
-
-
-
-
-	}
-
-
-
-
-
-
-
+int mifuncion(){
+	printf("Ozzy .|.\n");
+}
 
 int misael (){
-
-
-printf("hola mundo x2\n");
-
-
+	printf("hola mundo x2\n");
 }
-
-
-
 
 int david(){
 	printf("Hola Mundo 2\n");
 }
 
-
-	int mifuncion2(){
+int mifuncion2(){
 	printf("Hola mundo 3\n");
 }
-
